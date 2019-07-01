@@ -9,7 +9,7 @@ class Home extends Component {
         this.state = {
             allText: [
                 "...",
-                "......",
+                ".......",
                 "Who's there?",
                 "Uhh.. Jim's not home.",
                 "This is an automated message,",
