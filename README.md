@@ -1,5 +1,9 @@
 # About
 A interactive webpage built as part of a "virtual" adventure, taking players around the Internet.
+Basically a game with several stages where you need to solve clues and puzzles to proceed.
+
+*Curious?*
+
 Start here: https://www.youtube.com/channel/UCuUoEmlb3P8T2nZ8iIw-eKA
 
 
