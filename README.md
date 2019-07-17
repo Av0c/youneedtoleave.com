@@ -1,4 +1,9 @@
-This project was setup based on a tutorial from
+A interactive webpage built as part of a "virtual" adventure, taking players around the Internet.
+Start here: https://www.youtube.com/channel/UCuUoEmlb3P8T2nZ8iIw-eKA
+
+
+
+This project was built with React, based on a tutorial from
 https://www.robinwieruch.de/minimal-react-webpack-babel-setup/
 Special thanks !
 
